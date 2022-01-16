@@ -1,0 +1,5 @@
+C:\DIO\APP de cadastro\app cadastro\obj\Debug\netcoreapp3.1\DIO.Produtos.csproj.AssemblyReference.cache
+C:\DIO\APP de cadastro\app cadastro\obj\Debug\netcoreapp3.1\DIO.Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\APP de cadastro\app cadastro\obj\Debug\netcoreapp3.1\DIO.Produtos.AssemblyInfoInputs.cache
+C:\DIO\APP de cadastro\app cadastro\obj\Debug\netcoreapp3.1\DIO.Produtos.AssemblyInfo.cs
+C:\DIO\APP de cadastro\app cadastro\obj\Debug\netcoreapp3.1\DIO.Produtos.csproj.CoreCompileInputs.cache
